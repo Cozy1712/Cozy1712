@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1 id="welcome-el"></h1>
+        <h2 id="count-el">0</h2>
+        
+        
+        <div>
+            <button id="increment-btn" onclick="increment()">increment</button>
+        </div>
+        <button id="save-btn" onclick="save()">save</button>
+        <p id="save-el">Pervious entries: </p>
+
+    </div>
+    <div>
+        <img src="perf.jpeg" alt="perfume">
+        <p>perfume</p>
+        <button onclick="purchase()">purchase -$149</button>
+        <p id="error"></p>
+        <br>
+    </div> 
+    <div>
+        <span id="num1_el"></span>
+        <span id="num2_el"></span>
+        <br>
+        <button onclick="add()">Add</button>
+        <button onclick="subtract()">substract</button>
+        <button onclick="divide()">divide</button>
+        <button onclick="multiply()">multiply</button>
+        <br>
+        <span id="result-el">sum:</span>
+    </div>
+    <div class="blackjack">
+       <h1>Blackjack</h1>
+       <p id="player-el"></p>
+       <p id="message-el">want to play around?</p>
+       <p id="card-el">Cards:</p>
+       <p id="sum-el">sum:</p>
+       <button onclick="startGame()">START GAME</button>
+       <button onclick="newCard()">New Cards</button>
+        <br><br>
+        
+    </div>
+    <script src="./scripts.js/script.js"></script>
+    <script src="./scripts.js/index.js"></script>
+</body>
+</html>

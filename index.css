@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+
+}
+
+h1{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin: 70px;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 20px;
+    cursor: pointer;
+    width: 200px;
+    padding: 10px 15px 10px 15px;
+    color: white;
+    background-color: rgb(211, 65, 65);
+    border-radius: 5px;
+    border: none;
+}
+#save-btn{
+    background-color: rgb(102, 145, 38);
+    padding: 10px 50px 10px 50px;
+}
+P{
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+img{
+    margin-top: 30px;
+    width: 100px;
+
+}
+
+
+.blackjack{
+    background-color: green;
+    color: #ffff;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.blackjack h1{
+    padding-top: 20px;
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+
+}
+.blackjack p{
+    margin-bottom: 10px;
+}
+.blackjack button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    font-weight: bolder;
+    margin: 4px;
+}
