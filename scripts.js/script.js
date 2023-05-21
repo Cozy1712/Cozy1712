@@ -123,5 +123,41 @@ function newCard(){
 }
     
 
+//////////////Pop, Push, Unshift, Shift////////////////
+let largeCountries = ['Tuvalu', 'India', 'Usa', 'Indonesia', 'Monaco']
 
- 
+largeCountries.shift() /// remove element from the front of the arrray
+largeCountries.unshift('China')//// adding element to the front of the array 
+largeCountries.pop() //// removing element to the end of the array
+largeCountries.push('Parkistan')//// adding element to the end of the array
+console.log(largeCountries)
+
+////////////logical operator/////////
+let dayOfMonth = 13
+let weekday = 'Friday'
+
+if (dayOfMonth === 13 && weekday === 'Friday'){
+    console.log('this spooky face')
+}
+
+//////////////////////////////////////appple shelf//////////////////////////////
+let fruit = ['🍎', '🍊', '🍎', '🍎','🍊']
+let appleShelf = document.getElementById('apple-shelf')
+let orangeShelf = document.getElementById('orange-shelf')
+
+function sortFruit(){
+    
+
+    for (i = 0; i<fruit.length; i++){
+        if (fruit[i] === '🍎'){
+            appleShelf.textContent += fruit[i]
+        }else if (fruit[i] === '🍊'){
+            orangeShelf.textContent += fruit[i]
+        }
+
+
+    
+    }
+    
+}
+sortFruit()

@@ -76,3 +76,24 @@ img{
     font-weight: bolder;
     margin: 4px;
 }
+
+#apple-shelf{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(211, 65, 65);
+   justify-items: center;
+  
+    
+
+    
+}
+#orange-shelf{
+    height: 30px;
+    width: 100px;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
