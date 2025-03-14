@@ -1,10 +1,10 @@
-* 👋 Hi there , thanks for stopping by - BTW i'm Taiwo Boluwatife (Jeremy).
+* 👋 Hi there, thanks for stopping by - BTW i'm Kabiru Kolawole (kolawole).
 
-* I also goes by the identity `Blyncnov` .
+* I also goes by the identity `Cozy1712` .
 
-* You can check out [my portfolio website](https://jeremytechie.vercel.app) - your feedback and contributions are welcome!
+* You can check out [my portfolio website](https://cozy-portfolio.vercel.app/) - your feedback and contributions are welcome!
 
-* I'm a Frontend && Blockchain Developer 😊😊
+* I'm a Backend Engineer 😊😊
 
 * ![](https://komarev.com/ghpvc/?username=blyncnov)
 
@@ -13,7 +13,7 @@ const blyncnov
 
 if(JavaScript) {
 
-return Frontend developer
+return Backend developer
 
 } else {
 
@@ -28,13 +28,10 @@ return iOS developer
 `HTML5/CSS3`
 `JavaScript`
 `ReactJs`
-`NextJs`
-`Typescript`
-`SwiftUI`
 `NodeJs`
 
 
-* 💬 Reach out to me `bholuwatife00@gmail.com`
+* 💬 Reach out to me `kolawolekabiru89@gmail.com`
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blyncnov)
@@ -42,7 +39,7 @@ return iOS developer
 * ![](https://komarev.com/ghpvc/?username=blyncnov)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blyncnov)](https://github.com/blyncnov/github-readme-stats)
+[![Top Langs](https://github.com/Cozy1712)](https://github.com/Cozy1712)
 
 
 <h3 align="left">Languages and Tools:</h3>
