@@ -19,7 +19,6 @@ I'm a passionate and detail-oriented software engineer with over 2 years of expe
 - 🏥 Developed an Online Healthcare System for KolaDaisi University
 
 ## 🚀 **Projects:**
-- 🛍️ [**E-commerce Platform**](https://github.com/Cozy1712/ecommerce-platform): Built a full-featured online store with payment integration.
 - 📲 [**Real-Time Messaging App**](https://github.com/Cozy1712/realtime-chat-app): Designed a chat app with WebSocket support.
 - 🎵 [**Song Management System**](https://github.com/Cozy1712/song-management-system): Created a system to organize, search, and play songs.
 - 📅 [**Event Meetup**](https://github.com/Cozy1712/event-meetup): Developed an app to create, manage, and RSVP to community events.
