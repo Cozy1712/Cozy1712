@@ -27,7 +27,7 @@ I'm a passionate and detail-oriented software engineer with over 2 years of expe
 ## 📫 **Contact Me:**
 - **GitHub:** [Cozy1712](https://github.com/Cozy1712)
 - **LinkedIn:** [(www.linkedin.com/in/kabiru-kolawole-667b46267)](www.linkedin.com/in/kabiru-kolawole-667b46267)
-- **Email:** [kolawolekabiru89@gmail.com)]
+- **Email:** [kolawolekabiru89@gmail.com]
 
 Let’s build something amazing together! 🚀
 
