@@ -60,20 +60,7 @@ I'm a passionate and detail-oriented software engineer with over 2 years of expe
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cozy1712&show_icons=true&theme=tokyonight)
 
-**Kabiru Kolawole GitHub Stats**  
-⭐ **Total Stars:** 5.9k  
-📌 **Total Commits (2025):** 8  
-🔀 **Total PRs:** 67  
-🐛 **Total Issues:** 8  
-🔗 **Contributed to:** 0  
 
-**GitHub Profile Rating:** BB++
-
-
-## 📫 **Contact Me:**
-- **GitHub:** [Cozy1712](https://github.com/Cozy1712)
-- **LinkedIn:** [Cozy1712](https://www.linkedin.com/in/kabiru-kolawole-667b46267/)
-- **Email:** [kolawolekabiru89@gmail.com]
 
 Let’s build something amazing together! 🚀
 
