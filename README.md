@@ -32,7 +32,7 @@ Agile | Scrum
 
 🎓 **B.Sc. in Software Engineering** – KolaDaisi University, Ibadan  
 🎓 **National Diploma in Education** – Nuhu Bamailli Polytechnics  
-🏅 **Certified Backend Developer** (Node.js)  
+🏅 **Certified Backend Developer** (Django, Node.js)  
 🏥 **Developed an Online Healthcare System** for KolaDaisi University  
 
 ---
