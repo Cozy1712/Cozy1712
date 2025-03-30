@@ -9,7 +9,7 @@ I'm a passionate and detail-oriented software engineer with over **2 years of ex
 ## 🛠️ **Tech Stack & Skills**  
 
 ### **💻 Languages:**  
-Python | JavaScript | C++  
+Python | JavaScript  
 
 ### **🔧 Backend:**  
 Node.js | Express.js | Spring Boot | Django  
